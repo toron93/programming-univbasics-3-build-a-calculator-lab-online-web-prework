@@ -15,7 +15,7 @@ def multiplication(num1 = 4, num2 = 30) equals = 120
 
 end
 
-def modulo(num1, num2)
+def modulo(num1 = 34, num2 = 5) equals = 4
 
 end
 
