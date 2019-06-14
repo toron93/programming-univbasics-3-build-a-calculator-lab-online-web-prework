@@ -19,6 +19,6 @@ def modulo(num1 = 34, num2 = 5) equals = 4
 
 end
 
-def square_root(num)
+def square_root(num = 81) equals = 9
 
 end
